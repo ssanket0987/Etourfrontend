@@ -1,0 +1,30 @@
+.feature-container {
+    display: flex;
+    justify-content: space-around;
+    background: #4189f9;
+    padding: 20px;
+  }
+  
+  .feature-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+  }
+  
+  .feature-icon {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+  .feature-content h3 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .feature-content p {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
